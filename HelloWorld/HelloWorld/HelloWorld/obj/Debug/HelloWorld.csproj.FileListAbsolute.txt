@@ -1,0 +1,17 @@
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainWindow.baml
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainWindow.g.cs
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.g.cs
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.g.resources
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\ListView.baml
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\ListView.g.cs
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\Menu.baml
+D:\Research\DemoApps\XAML Samples\XAMLTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\Menu.g.cs
